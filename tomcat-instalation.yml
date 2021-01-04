@@ -1,5 +1,5 @@
 ---
-- hosts: [web]
+- hosts: 54.147.113.6
   become: yes
   tasks:
     - name: Install OpenJDK 11 
